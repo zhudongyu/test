@@ -28,7 +28,7 @@ In the words of Abraham Lincoln:
   \```
   
 Some basic Git commands are:
-```
+```javascript
 git status
 git add
 git commit
